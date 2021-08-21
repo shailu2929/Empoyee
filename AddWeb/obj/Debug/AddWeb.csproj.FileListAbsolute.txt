@@ -1,0 +1,10 @@
+D:\AddWeb\AddWeb\bin\AddWeb.dll
+D:\AddWeb\AddWeb\bin\AddWeb.pdb
+D:\AddWeb\AddWeb\bin\BusinessLogicLayer.dll
+D:\AddWeb\AddWeb\bin\DataAccessLayer.dll
+D:\AddWeb\AddWeb\bin\BusinessLogicLayer.pdb
+D:\AddWeb\AddWeb\bin\DataAccessLayer.pdb
+D:\AddWeb\AddWeb\obj\Debug\AddWeb.csprojResolveAssemblyReference.cache
+D:\AddWeb\AddWeb\obj\Debug\AddWeb.dll
+D:\AddWeb\AddWeb\obj\Debug\AddWeb.pdb
+D:\AddWeb\AddWeb\bin\Newtonsoft.Json.dll

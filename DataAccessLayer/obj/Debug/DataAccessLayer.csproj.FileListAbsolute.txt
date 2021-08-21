@@ -1,0 +1,5 @@
+D:\AddWeb\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\AddWeb\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\AddWeb\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\AddWeb\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\AddWeb\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
